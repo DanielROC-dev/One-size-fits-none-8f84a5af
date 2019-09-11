@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+}
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+body {
+color: white;
+cursor: none;
+letter-spacing: 10;
+}
